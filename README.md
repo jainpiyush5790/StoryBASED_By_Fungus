@@ -1,0 +1,3 @@
+# StoryBASED_By_Fungus
+First Story Based Game
+i have created this game in just 3 days ....
